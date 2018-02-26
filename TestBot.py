@@ -53,5 +53,5 @@ async def on_message(message):
     await bot.process_commands(message)
     
 
-bot.run("NDE2MzgyMjA5MzY5MzA5MjA4.DXEfGw.BImCIMhgcWEGW7J7a_-YDESzcUc")
+bot.run("KEY")
     
