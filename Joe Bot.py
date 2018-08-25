@@ -75,7 +75,7 @@ async def on_message(message):
         await client.send_message(message.channel, 'Hey Peter', tts=True)
 
 
-
+# "Hey Beter!"
 
     
 client.run("NDE2MzgyMjA5MzY5MzA5MjA4.DXEfGw.BImCIMhgcWEGW7J7a_-YDESzcUc") #Replace token with your bots token
