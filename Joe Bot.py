@@ -79,3 +79,5 @@ async def on_message(message):
 
     
 client.run("NDE2MzgyMjA5MzY5MzA5MjA4.DXEfGw.BImCIMhgcWEGW7J7a_-YDESzcUc") #Replace token with your bots token
+
+#TEST
